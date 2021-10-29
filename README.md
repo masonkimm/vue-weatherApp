@@ -8,8 +8,11 @@ Simple weather app built with VUE.js open-weather-api and deployed with netlify.
 
 ## Project Demo
 
-![project-demon1]('./projectDemo1.png)
-![alt-text]('./src/assets/projectDemo2.png)
+- Locations with low temperatures will show blue background.
+  ![project-demon1](./src/assets/projectDemo1.png)
+
+- Locations with high temperatures will show red background.
+  ![alt-text](./src/assets/projectDemo2.png)
 
 ## Project setup
 
